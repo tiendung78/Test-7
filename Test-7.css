@@ -1,0 +1,61 @@
+.background{
+	width: 100%;
+	height: 700px;
+	background-image: url(ima/thienha.jpg)!important;
+	background-size: 100% 100%;
+	background-repeat: no-repeat!important;
+}
+img{
+	width: 100%;
+	height: 100px;
+	padding: 0;
+}
+.menu{
+	margin-left: 20%;
+}
+.nav-item{
+	width: 100px;
+}
+h1.text-white {
+    font-size: 65px;
+    margin-left: 22%;
+    margin-top: 7%;
+}
+h2.text-white{
+	margin-left: 22%!important;
+}
+.title{
+	margin-left: 22%!important;
+
+}
+img.rounded-circle {
+    border: 5px solid white;
+    width: 60px;
+    height: 60px;
+}
+li.nav-item.menu1 {
+	width: 250px;
+}
+.hr{
+	width: 100%;
+}
+img.intro{
+	width: 23%!important;
+    height: 85%;
+}
+li.nav-item.menu2{
+	width: 130px;
+	text-decoration: underline;
+}
+.background2{
+   background: rgb(232,38,101)!important;
+   background: linear-gradient(90deg, rgba(232,38,101,1) 47%, rgba(22,48,186,1) 92%)!important;
+}
+.row.bg-danger.mt-3 {
+	background: rgb(232,38,101)!important;
+    background: linear-gradient(90deg, rgba(232,38,101,1) 47%, rgba(22,48,186,1) 92%)!important;
+}
+.cardd {
+	background: rgb(232,38,101)!important;
+    background: linear-gradient(90deg, rgba(232,38,101,1) 47%, rgba(22,48,186,1) 92%)!important;
+}
